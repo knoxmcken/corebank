@@ -20,4 +20,4 @@
 
 10. Customer support: Provide a means for users to contact customer support through in-app messaging, phone, or email.
 
-As you gain experience and your application evolves, you can consider adding more advanced features such as budgeting tools, investment options, or integration with third-party financial services.
+More advanced features such as budgeting tools, investment options, or integration with third-party financial services will be added in later versions.
