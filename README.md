@@ -1,6 +1,6 @@
 # CoreBank: A Simple Banking Application with Core Features
 
-CoreBank is a simple banking application that allows users to perform basic banking functions such as account management, transfers, and balance inquiries. It is designed for use by customers of small banks and credit unions.
+CoreBank is a simple banking application that allows users to perform basic banking functions such as account management, transfers, and balance inquiries. 
 
 ## Folders
 
@@ -28,4 +28,4 @@ CoreBank is licensed under the MIT License. See the LICENSE file for more inform
 
 ## Contact
 
-For questions or support, please contact the CoreBank team at support@corebank.com.
+For questions or support, please contact the CoreBank team at knoxmcken@gmail.com.
