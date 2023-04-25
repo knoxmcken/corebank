@@ -6,7 +6,21 @@ app.get('/', (req, res) => {
   res.send('Welcome to CoreBank!');
 });
 
+
+// Sync models with the database
+sequelize.sync()
+  .then(() => {
+    console.log('Database synchronized');
+  })
+  .catch(err => {
+    console.error('Error synchronizing the database:', err);
+  });
+
+
 app.listen(PORT, () => {
   console.log(`CoreBank server is running on port ${PORT}`);
+
+
+
 });
 
